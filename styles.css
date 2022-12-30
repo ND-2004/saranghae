@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+p{
+    line-height: 2;
+    font-weight: bold;
+    font-family: Montserrat;
+}
+.I{
+    background-image: -webkit-linear-gradient(65deg,rgb(230, 66, 230),green);
+}
+img{
+    margin-left: 9px;
+    border-radius: 30px;
+    box-shadow:5px 5px 10px 0  black;
+}
+h1{
+    font-family: 'Ubuntu';
+
+}
