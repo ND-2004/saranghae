@@ -7,7 +7,7 @@ p{
     font-family: Montserrat;
 }
 .I{
-    background-image: -webkit-linear-gradient(65deg,rgba(208, 10, 248, 0.882),green);
+    background-image: -webkit-linear-gradient(45deg,rgba(175, 92, 192, 0.882),rgb(108, 223, 108));
 }
 img{
     /* margin-left: 9px; */
